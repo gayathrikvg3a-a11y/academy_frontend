@@ -53,6 +53,7 @@ export const NAV_GROUPS = [
     label: "Careers",
     items: [{ title: "Vacancies", url: "/vacancies", icon: Briefcase }],
   },
+  
   {
     label: "Payments",
     items: [
